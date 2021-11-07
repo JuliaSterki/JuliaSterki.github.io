@@ -18,5 +18,4 @@ There is no filter functionality as the webpage consists of one continous text w
 ### Overall User Experience
 The paragraphs of the text are short and easy to follow. The pictures help the users to get a better impression of Ballesta's work and what they might expect to see in the exhibition. Also, the font size is big enough so that it is easy to read for everybody. In my opinion, the text is rather on the long side and I would have appreciated to see Laurent Ballesta speaking in a linked video or at least seeing a picture of him. There are various instagram posts hyperlinked in the text which is good for the promotion of the photographer.
 
-
-This is an example blog post in my example blog, which I have just forked from Barry Clark's Jekyll Now repo.
+[^1]: [https://www.blancpain-ocean-commitment.com/photographers/laurent-ballesta)
