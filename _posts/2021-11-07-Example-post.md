@@ -15,6 +15,9 @@ At the top, there is a photograph taken by Laurent Ballesta, the Wildlife Photog
 ### Filter functionality
 There is no filter functionality as the webpage consists of one continous text with a few pictures in between. (The page I've chosen is probably not the best choice for this kind of excercise)
 
+### Categories
+No categories could be identified.
+
 ### Overall User Experience
 The paragraphs of the text are short and easy to follow. The pictures help the users to get a better impression of Ballesta's work and what they might expect to see in the exhibition. Also, the font size is big enough so that it is easy to read for everybody. In my opinion, the text is rather on the long side and I would have appreciated to see Laurent Ballesta speaking in a linked video or at least seeing a picture of him. There are various instagram posts hyperlinked in the text which is good for the promotion of the photographer.
 
