@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wildlife Photographer of the Year: life and death in an underwater world"
+title: "Wildlife Photographer of the Year: Laurent Ballesta"
 ---
 
 > Visit [here](https://www.nhm.ac.uk/discover/wildlife-photographer-of-the-year-life-and-death-underwater.html)
